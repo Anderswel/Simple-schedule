@@ -7,3 +7,4 @@ This is my first project about a schedule collage, I'm making this very simple
 - CSS
 
 ## Preview
+[Area](Preview.mp4)
