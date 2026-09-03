@@ -1,3 +1,7 @@
-# Front-Dev
+# 🗒 Simple schedule 
 
-In this repository include all my project.
+This is my first project about a schedule collage, I'm making this very simple
+
+## Programs language
+- HTML
+- CSS
